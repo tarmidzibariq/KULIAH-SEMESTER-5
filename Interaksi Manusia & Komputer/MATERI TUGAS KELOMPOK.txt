@@ -1,0 +1,36 @@
+Materi Kelompok 1 : 
+1. Komponen IMK
+2. Ruang Lingkup
+3. Tujuan Mempelajari IMK
+4. Contoh Penggunaan IMK di kehidupan sehari - hari
+
+ Materi Kelompok 2 : 
+1. Usability pada IMK berkaitan dengan kemampuan manusia berinteraksi, secara baik dan secara buruk beserta contohnya
+2. Jelaskan tentang proses UCD beserta komponen - komponen nya
+3. Berikan penjelasan proses yang berkaitan dengan kapasitas manusia dan pemrogram dalam UCD
+
+ Materi Kelompok 3 : 
+1. Jelaskan tentang analisis tugas IMK beserta contohnya
+2. Sumber penggunaan input output
+3. Jelaskan tentang pemodelan analisis tugas pada IMK
+
+ Materi Kelompok 4 : 
+1. Design grafis dalam IMK terdiri dari filosofi design, warna, beserta contohnya 
+2. Berikan penjelasan tentang typography, font, warna, design icon (logo), dan teknik coding pada interface manusia dan komputer
+3. Dialog style pada IMK
+
+ Materi Kelompok 5 : 
+1. Apa itu prototype
+2. Macam - macam prototype / Jenis - jenis prototype
+3. Jelaskan storyboard, wireframe, mockup beserta contohnya
+4. Jelaskan prototype tools
+
+ Materi Kelompok 6 : 
+1. Jelaskan tentang konsep penanganan kesalahan pada IMK
+2. Jenis - jenis kesalahan pada IMK
+3. Tools yang digunakan untuk  menentukan jenis kesalahan pada IMK
+
+ Materi Kelompok 7 :
+1. Apa itu visualisasi informasi pada IMK
+2. Teknik visualisasi pada IMK
+3. Contoh - contoh visualisasi informasi pada IMK
