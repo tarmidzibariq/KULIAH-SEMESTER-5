@@ -1,0 +1,46 @@
+B|#|_|17|12|19|8|26|18|8|21|_|13|8|18|1|22|25|&|13|8|18|1|22|25|_|18|12|8|20|8|21|8|21|_|6|8|21|14|_|23|12|25|19|2|_|
+
+B|#|_|17|12|19|8|26|18|8|21|_|13|8|18|1|22|25|&|13|8|18|1|22|25|_|18|12|8|20|8|21|8|21|_|6|8|21|14|_|23|12|25|19|2|_|11|16|23|12|25|15|8|1|16|18|8|21|!|_|20|16|21|16|20|8|19|_|C|<
+
+
+
+
+
+
+def encrypt_caesar(text):
+    # Tabel alfabet dan simbol sesuai dengan soal
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    symbols = "0123456789.,?:@()-"
+    encrypted_symbols = "ABCDEFGHIJ#!<>+$%&"
+
+    # Hasil enkripsi
+    encrypted_text = []
+
+    for char in text:
+        if char.isalpha():  # Jika karakter adalah huruf
+            is_upper = char.isupper()
+            char = char.upper()
+            index = alphabet.index(char)
+            new_index = (index + 7) % 26
+            encrypted_number = new_index + 1  # Karena alfabet dimulai dari 1
+            encrypted_text.append(str(encrypted_number))
+        elif char.isdigit() or char in symbols:  # Jika karakter adalah simbol atau angka
+            if char in symbols:
+                new_char = encrypted_symbols[symbols.index(char)]
+                encrypted_text.append(new_char)
+            else:  # Angka
+                new_char = encrypted_symbols[int(char)]
+                encrypted_text.append(new_char)
+        elif char == " ":  # Jika karakter adalah spasi
+            encrypted_text.append("_")
+        else:
+            encrypted_text.append(char)
+
+    # Gabungkan hasil dengan tanda "|"
+    return "|".join(encrypted_text)
+
+# Contoh penggunaan
+plain_text = "5. Jelaskan apa yang dimaksud dengna non repudiation dan berikan contohnya"
+cipher_text = encrypt_caesar(plain_text)
+print("Plaintext:", plain_text)
+print("Ciphertext:", cipher_text)
