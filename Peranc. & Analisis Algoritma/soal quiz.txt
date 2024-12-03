@@ -1,0 +1,11 @@
+2 + 4 + 6 + ... + 2N = f(n)
+maka tentukan nilai konstanta C dan biilangan n0 sedemikian hingga dapat ditentukan kompleksitas Waktu algoritma Waktu terbaik, Waktu rata rata dan Waktu terburuk (petunjuk: diminta menentukan big oh, omega, theta dgn cara dep...
+
+T(n) = (n+5)(n-1)(n+2)
+maka tentukan komplesitas Waktu big oh dan theta
+
+jika ditentukan array
+[ 22,15,16,10,2,8,17,9,1,25]
+a. carilah nilai minimum dan maksimum dengan menerapkan prinsip/cara algoritma brustforce
+b. carilah nilai minimum dan maksimum dengan menerapkan prinsip/cara algoritma greedy
+c urutkan secara ascending array tersebut dengan menerapkan algoritma divide and conquer

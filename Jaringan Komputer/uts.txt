@@ -1,0 +1,161 @@
+1.	Apa yang dimaksud dengan jaringan  komputer?
+a.	Kumpulan perangkat komputer yang saling terhubung untuk berbagi sumber daya
+b.	Hanya perangkat yang terhubung ke internet
+c.	Sistem yang digunakan untuk menyimpan data
+d.	Perangkat keras yang digunakan untuk menghubungkan komputer
+
+2.	Apa yang dimaksud dengan IP address dalam jaringan komputer?
+a.	Alamat fisik perangkat di jaringan
+b.	Alamat yang digunakan untuk mengidentifikasi perangkat di jaringan
+c.	Protokol yang digunakan untuk mengatur komunikasi
+d.	Perangkat yang menghubungkan jaringan lokal ke internet
+
+3.	Pada era 1950-an, sistem apa yang pertama kali dikembangkan untuk memungkinkan satu komputer melayani beberapa terminal?
+a.	Batch Processing
+b.	Distribution Processing
+c.	Time Sharing System (TSS)
+d.	Internet Protocol (IP)
+
+
+
+
+
+
+4.	Apa yang dimaksud dengan LAN?
+a.	Jaringan yang mencakup seluruh dunia
+b.	Jaringan milik pribadi di dalam sebuah gedung atau kampus
+c.	Jaringan yang digunakan oleh satu komputer
+d.	Jaringan yang hanya digunakan untuk media sosial
+
+
+5.	Jaringan yang terbentuk dari beberapa jaringan local, disebut jaringan ?
+a.	WAN
+b.	LAN 
+c.	MAN
+d.	TCP/IP
+
+6.	Jaringan yang cocok untuk digunakan di lingkungan perkantoran adalah? 
+a.	WAN
+b.	LAN
+c.	MAN
+d.	PAN
+
+7.	Protokol yang sering digunakan untuk mengakses halaman web di internet adalah…
+a.	FTP
+b.	HTTP
+c.	IPX
+d.	DNS
+
+8.	Apa perbedaan utama antara intranet dan extranet?
+a.	Intranet adalah jaringan internal yang hanya bisa diakses oleh karyawan di dalam organisasi, sementara extranet adalah jaringan eksternal yang memungkinkan akses terbatas bagi pihak luar, seperti mitra atau pelanggan.
+b.	Intranet digunakan untuk berbagi informasi secara terbuka ke publik, sedangkan extranet hanya bisa diakses oleh karyawan internal perusahaan.
+c.	Intranet hanya digunakan oleh perusahaan besar, sementara extranet digunakan oleh perusahaan kecil.
+d.	Intranet dan extranet keduanya adalah jaringan publik yang bisa diakses oleh siapa saja tanpa izin khusus.
+
+
+9.	Yang termasuk ke dalam keuntungan jaringan komputer dibawah ini, kecuali?
+a.	Penggunaan sumber daya Bersama (Resource sharing)
+b.	Transaksi dapat dilakukan ditempat yang berbeda
+c.	Memungkinkan kolaborasi antar pengguna
+d.	Pengendalian tidak terpusat
+
+10.	 Bagaimana jaringan komputer dapat membantu mengurangi biaya operasional 	   perusahaan?
+a.	Mengurangi biaya tenaga kerja
+b.	Menghilangkan kebutuhan transportasi fisik untuk data
+c.	Mengurangi biaya listrik
+d.	Memperlambat proses bisnis
+
+11.	Apa keuntungan utama dari "resource sharing" pada jaringan komputer?
+a.	Memastikan data selalu aman
+b.	Memudahkan pencadangan data
+c.	Mengoptimalkan penggunaan sumber daya Bersama
+d.	Mengurangi jumlah perangkat keras
+
+12.	Apa yang dimaksud dengan integrasi data dalam jaringan komputer?
+a.	Penggabungan semua data menjadi satu format
+b.	Penyimpanan data di berbagai tempat
+c.	Data yang diperbarui secara real-time dan mudah diakses
+d.	Data disimpan hanya di satu komputer
+
+13.	Mengapa jaringan komputer penting untuk kolaborasi antar pengguna?
+a.	Memungkinkan komunikasi cepat melalui surat fisik
+b.	Mengizinkan akses tak terbatas ke semua file
+c.	Memungkinkan email dan newsgroup untuk kolaborasi
+d.	Mengurangi kebutuhan akan perangkat keras tambahan
+
+14.	Apa masalah sosial yang dapat timbul akibat penggunaan jaringan komputer secara luas?
+a.	Masalah privasi dan konflik sosial
+b.	Pengurangan biaya operasional
+c.	Akses informasi yang lebih cepat
+d.	Pengembangan keterampilan komunikasi  
+15.	Penggunaan internet secara tidak bertanggung jawab dapat menyebabkan?
+a.	Berkurangnya inovasi teknologi
+b.	Munculnya masalah ekonomi dan keamanan
+c.	Berkurangnya masalah sosial
+d.	Peningkatan privasi pengguna
+
+16.	Mengapa LAN (Local Area Network) dianggap lebih aman untuk berbagi data rahasia?
+a.	LAN membatasi akses hanya untuk komputer yang terhubung
+b.	LAN memerlukan koneksi internet
+c.	LAN tidak menyimpan data
+d.	LAN tersedia untuk semua pengguna internet
+
+      17 . Apakah yang dimaksud dengan Peer to Peer Network? 	      a. 	Jaringan komputer dengan satu server utama    	      b 	Jaringan komputer yang terdiri dari beberapa komputer yang terhubung langsung 	      c.	Jaringan komputer hanya untuk kantor 	      d. 	Jaringan komputer antar negara         18. Kelebihan jaringan Peer to Peer adalah... 	      a.	 Keamanan tinggi 	      b.	 Mudah di-manage     	      c.	 Implementasinya murah dan mudah 	      d.	 Bisa digunakan untuk jaringan besar
+      19. Keuntungan jaringan LAN adalah... 	      a.	 Jangkauan sampai antar negara 	      b. 	Pertukaran file dapat dilakukan dengan mudah                  c. 	Komunikasi menggunakan satelit 	     d. 	Menghubungkan kantor cabang         20. PAN (Personal Area Network) biasanya menggunakan teknologi... 	     a. 	Satellite 	     b. 	Kabel Fiber Optic 	     c.	Bluetooth 	     d.	LAN Cable        21.Jarak maksimum jaringan MAN adalah... 	    a.	10 kilometer 	    b. 	50 kilometer 	    c.     80 kilometer 	    d. 	100 kilometer       22. Pada sistem terdistribusi, setiap user... 	   a.	Tidak perlu login 	   b.	Memiliki identitas dan password unik 	   c.	Bisa login tanpa password 	   d.	Tidak membutuhkan host 
+ 
+    23. Apa yang menjadi ciri utama dari User Datagram Protocol (UDP)?
+	  a.	Menjamin pengiriman data secara utuh  
+	  b.	Memerlukan komunikasi awal sebelum mentransfer data  
+	  c.	Tidak menjamin pengiriman data secara utuh  
+	  d.	Hanya digunakan untuk mentransmisikan data dalam jumlah besar  
+
+
+    24.  Apa yang diperlukan oleh Transmission Control Protocol (TCP) untuk menjamin   	pengiriman    data?
+	  a.	Tidak memerlukan konfirmasi dari penerima  
+	  b.	Penggunaan aplikasi tertentu untuk komunikasi  
+	  c.	Komunikasi awal dengan penerima dan pengiriman acknowledgment (ACK) setiap 	            data diterima  
+	  d.	Pengiriman data dalam jumlah kecil hanya  
+
+    25.Apa yang dimaksud dengan port dalam komunikasi pada layer transport?
+	 a.	Alamat fisik dari komputer yang digunakan untuk komunikasi  
+	 b.	Nomor unik yang disediakan untuk aplikasi tertentu pada komputer  
+	 c.	Kombinasi antara alamat IP dan nomor port TCP/UDP  
+	 d.	Penghubung antara dua aplikasi yang sedang berkomunikasi
+
+ 
+
+
+
+
+    26.Apa yang dimaksud dengan socket dalam komunikasi antara dua komputer?
+	 a.	Nomor yang digunakan untuk mengidentifikasi aplikasi pada komputer  
+	 b.	Kombinasi antara alamat IP dan nomor port TCP/UDP  
+	 c.	Hanya digunakan oleh protokol UDP  
+	 d.	Menentukan alamat fisik komputer yang akan digunakan untuk komunikasi
+
+    27.Apa yang menjadi karakteristik utama dari protokol UDP?
+	a.	Protokol connection-oriented yang memerlukan komunikasi awal sebelum 			mentransfer data  
+	b.	Protokol reliable yang menjamin pengiriman data utuh  
+	c.	Protokol connectionless yang tidak menjamin pengiriman data secara utuh  
+	d.	Protokol yang hanya digunakan untuk mentransmisikan data dalam jumlah besar 
+
+    28.Jika terjadi kehilangan paket data dalam komunikasi menggunakan UDP, siapa yang   	bertanggung jawab untuk menangani masalah ini?
+	a.	Protokol TCP  
+	b.	Aplikasi yang menggunakan UDP  
+	c.	Layer fisik jaringan  
+	d.	Router yang mengirimkan data
+
+
+    29.Apa yang dimaksud dengan komunikasi "fully duplex" dalam konteks TCP?
+	a.	Pengiriman data hanya dapat dilakukan satu arah antara pengirim dan penerima  
+	b.	Pengirim dan penerima dapat mengirim dan menerima data secara bersamaan 	 		melalui dua saluran logis  
+	c.	Data hanya dikirim setelah negosiasi antara pengirim dan penerima selesai  
+	d.	TCP hanya menggunakan satu saluran untuk pengiriman data
+
+    30.Siapa yang pertama kali mengembangkan World Wide Web dan pada tahun berapa?
+	a.	Marc Andreessen pada tahun 1993  
+	b.	Tim Berners-Lee pada tahun 1989  
+	c.	Vinton Cerf pada tahun 1983  
+	d.	Steve Jobs pada tahun 1995
+
+
