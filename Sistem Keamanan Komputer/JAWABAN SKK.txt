@@ -1,0 +1,19 @@
+1. Jelaskan faktor-faktor keamanan yang perlu diperhatikan, minimal 2?
+Autentikasi dua faktor: Aktifkan autentikasi dua faktor (2FA) sebagai langkah keamanan tambahan.
+Koneksi internet: Gunakan koneksi internet yang aman, dan hindari menggunakan WiFi gratisan.
+
+2. Jelaskan perbedaan antara Enkripsi dan Dekripsi?
+Enkripsi adalah proses mengubah data normal menjadi bentuk yang tidak dapat dibaca. Dekripsi adalah metode mengubah data yang tidak dapat dibaca atau dikodekan menjadi bentuk aslinya.
+
+3.  Jelaskan perbedaan antara Simetris Enkripsi dan Asimetris Enkripsi?
+Enkripsi simetris menggunakan satu kunci untuk mengenkripsi dan mendekripsi data, sedangkan enkripsi asimetris menggunakan dua kunci: kunci publik dan kunci privat.
+
+4. Jelaskan manfaatan dari firewall pada sebuah sisem operasi?
+Firewall adalah sistem keamanan jaringan komputer yang mampu melindungi dari serangan virus, malware, spam, dan berbagai jenis serangan internet lainnya.
+1. Melindungi Komputer dari Akses Ilegal Jarak Jauh
+2. Memonitor dan Mengendalikan Lalu Lintas Jaringan
+
+5. Jelaskan apa yang dimaksud dengna non repudiation dan berikan contohnya
+Konsep dalam keamanan informasi yang bertujuan untuk mencegah seseorang atau entitas yang terlibat dalam suatu transaksi untuk menyangkal atau menolak keterlibatannya di kemudian hari. 
+contoh: 1. Email dengan Tanda Tangan Digital
+	2. Transaksi E-Commerce

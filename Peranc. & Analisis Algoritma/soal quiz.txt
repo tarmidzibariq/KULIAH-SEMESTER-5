@@ -9,3 +9,14 @@ jika ditentukan array
 a. carilah nilai minimum dan maksimum dengan menerapkan prinsip/cara algoritma brustforce
 b. carilah nilai minimum dan maksimum dengan menerapkan prinsip/cara algoritma greedy
 c urutkan secara ascending array tersebut dengan menerapkan algoritma divide and conquer
+
+
+f(n) = 1 + 2 + 3 + .. + n
+tentukan big oh, omega dan theta dengan penggunaakn prinsip/definisi pertidaksamaan kompleksitas waku algoritma(petujuk cara masing masing nilai konstanta C & N0 E N)
+
+array : [ 100, 150, 99, 21, 210, 3, 2, 9, 16, 101, 13 ]
+tentukan nilai min - max dengan algoritma greedy
+tentukan nilai min - max dengan algoritma brute force
+
+T(N)=(n^2+3n+2)(n^2-5n)/(n=2)
+tentukan big oh, theta menggunakan prinsip ketidaksamaan
